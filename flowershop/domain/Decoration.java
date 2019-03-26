@@ -1,6 +1,7 @@
 package com.flowershop.domain;
 
-public class Decoration {
+public class Decoration 
+{
 
 	protected double price;
 	protected String material;
