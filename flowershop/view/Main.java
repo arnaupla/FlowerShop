@@ -2,7 +2,8 @@ package com.flowershop.view;
 
 import com.flowershop.application.FlowerShopController;
 
-public class Main {
+public class Main 
+{
 	
 	private static FlowerShopController controller = new FlowerShopController();
 
