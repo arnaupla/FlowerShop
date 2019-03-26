@@ -1,6 +1,7 @@
 package com.flowershop.domain;
 
-public class FlowerShop {
+public class FlowerShop 
+{
 
 	protected String name;
 	
