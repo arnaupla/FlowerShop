@@ -7,7 +7,8 @@ import com.flowershop.domain.Decoration;
 import com.flowershop.domain.Flower;
 import com.flowershop.domain.Tree;
 
-public class FlowerShopRepository {
+public class FlowerShopRepository 
+{
 	
 	private static List<Tree> trees = new ArrayList<>();
 	private static List<Flower> flowers = new ArrayList<>();
