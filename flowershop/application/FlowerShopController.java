@@ -6,7 +6,8 @@ import com.flowershop.domain.FlowerShop;
 import com.flowershop.domain.Tree;
 import com.flowershop.persistence.FlowerShopRepository;
 
-public class FlowerShopController {
+public class FlowerShopController 
+{
 	
 	private FlowerShopRepository repository = new FlowerShopRepository();
 	
