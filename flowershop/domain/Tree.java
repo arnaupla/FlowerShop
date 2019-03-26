@@ -1,6 +1,7 @@
 package com.flowershop.domain;
 
-public class Tree {
+public class Tree 
+{
 
 	protected double price;
 	protected double height;
